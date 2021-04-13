@@ -10,7 +10,7 @@ function Boxes() {
             <div className='Box'>
                 <p className='p1'>Este é meu curriculo.</p>
                 <p className='p2'>Clique em visualizar para me conhecer um pouco melhor.</p>
-                <button></button>
+                <button className='Botão'>Visualizar</button>
             </div>
         </div>
     )

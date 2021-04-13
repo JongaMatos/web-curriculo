@@ -1,26 +1,57 @@
+.Bigbox, .Box {
+    border-radius: 10px ;
+    margin: auto;
+}
+
 .Bigbox {
     background-color: #CFCFCF;
     /*  */
-    max-width: 1000px;
-    min-height: 500px;
+    max-width: 700px;
+    min-height: 450px;
     /*  */
-    margin: auto;
     margin-bottom: 1.5%;
+    margin-top: 2%;
+
     /*  */
     /* border: 30px black; */
-    border-radius: 16px 16px 16px 16px;
-}
+    border: 15050px,#000000;}
+
+
 
 .Box {
-    display: flex;
-    flex-direction: column;
     /*  */
     background-color: #ffffff;
     /*  */
     /* margin-bottom: 10%; */
     margin-top: 12%;
-    margin-left: 15%;
-    margin-right: 15%;
     /*  */
-    min-height: 100px;
+    /* min-height: 100px; */
+    max-width: 80%;
+    /*  */
+    margin-bottom: 2%;
+}
+.p1 {
+    padding-top: 4%;
+    font-size: 1.7rem;
+    margin-bottom: 0px;
+}
+
+.p2 {
+    font-size: 1.5rem;
+    padding-left: 18%;
+    padding-right: 18%;
+    margin-top: 2%;
+}
+
+.Botão {
+    background-color: #468AB7;
+    color: #ffffff;
+    /*  */
+    min-width: 20%;
+    min-height: 30px;
+    /*  */
+    border-radius: 8%;
+    border: #CAC9C9;
+    /*  */
+    margin-bottom: 5%;
 }
