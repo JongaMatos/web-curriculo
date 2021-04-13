@@ -1,0 +1,19 @@
+header {
+    display: flex;
+    background-color: #468AB7;
+    color: #ffffff;
+    /*  */
+    font-family: 'Noto Serif', Times, serif;
+    font-size: 15px;
+    /*  */
+    max-width: 1000px;
+    border-radius: 16px 16px 0px 0px;
+    /*  */
+    margin: auto;
+    margin-top: 1.5%;
+    margin-bottom: 0;
+}
+
+h1 {
+    margin: 1rem;
+}
