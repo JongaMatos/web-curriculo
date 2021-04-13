@@ -1,0 +1,26 @@
+.Bigbox {
+    background-color: #CFCFCF;
+    /*  */
+    max-width: 1000px;
+    min-height: 500px;
+    /*  */
+    margin: auto;
+    margin-bottom: 1.5%;
+    /*  */
+    /* border: 30px black; */
+    border-radius: 16px 16px 16px 16px;
+}
+
+.Box {
+    display: flex;
+    flex-direction: column;
+    /*  */
+    background-color: #ffffff;
+    /*  */
+    /* margin-bottom: 10%; */
+    margin-top: 12%;
+    margin-left: 15%;
+    margin-right: 15%;
+    /*  */
+    min-height: 100px;
+}
