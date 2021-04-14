@@ -1,5 +1,5 @@
 .Bigbox, .Box {
-    border-radius: 10px ;
+    border-radius: 10px;
     margin: auto;
 }
 
@@ -11,12 +11,10 @@
     /*  */
     margin-bottom: 1.5%;
     margin-top: 2%;
-
     /*  */
     /* border: 30px black; */
-    border: 15050px,#000000;}
-
-
+    border: 15050px, #000000;
+}
 
 .Box {
     /*  */
@@ -30,6 +28,7 @@
     /*  */
     margin-bottom: 2%;
 }
+
 .p1 {
     padding-top: 4%;
     font-size: 1.7rem;
@@ -47,11 +46,13 @@
     background-color: #468AB7;
     color: #ffffff;
     /*  */
-    min-width: 20%;
-    min-height: 30px;
-    /*  */
     border-radius: 8%;
     border: #CAC9C9;
     /*  */
     margin-bottom: 5%;
+    /*  */
+}
+
+.Botão:hover {
+    cursor: pointer;
 }
