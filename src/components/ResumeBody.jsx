@@ -1,8 +1,6 @@
 import React from 'react'
 import './CSS/ResumeBody.css'
-// import HeaderResume from './HeaderResume.jsx'
 import FooterResume from './FooterResume'
-import LineTitle from './LineTitle'
 import Profile from './Profile'
 import Trecho from './Trecho'
 
