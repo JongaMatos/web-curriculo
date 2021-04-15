@@ -1,0 +1,29 @@
+.ft {
+    background-color: #5A8D3B;
+    /*  */
+    display: flex;
+    /*  */
+    border-radius: 0px 0px 16px 16px;
+    /*  */
+    max-width: 1200px;
+    /*  */
+    /* margin-top: 3rem; */
+    margin: 0 auto;
+    /*  */
+}
+
+.Retorno {
+    text-decoration: none;
+    /*  */
+    margin: auto;
+    margin-right: 0;
+    margin-left: 2rem;
+    /*  */
+    color: #fff;
+    /*  */
+    padding: 1rem;
+}
+
+.Retorno:hover {
+    cursor: pointer;
+}

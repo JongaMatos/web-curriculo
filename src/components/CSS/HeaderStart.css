@@ -1,17 +1,17 @@
-header {
+.HeaderStart {
     display: flex;
-    background-color: #468AB7;
+    background-color: #5A8D3B;
     color: #ffffff;
     /*  */
     max-width: 1000px;
-    border-radius: 16px 16px 0px 0px;
+    border-radius: 10px 10px 0px 0px;
     /*  */
     margin: auto;
     margin-top: 1.5%;
     margin-bottom: 0;
 }
 
-h1 {
+.NomeHeader {
     margin: 1rem;
     /*  */
     font-family: 'Noto Serif', Times, serif;

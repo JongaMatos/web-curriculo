@@ -1,0 +1,15 @@
+
+
+.Line {
+    /* border-bottom: 1px solid rgb(199, 198, 198); */
+    border-bottom: 1px solid #C7C6C6;
+    display: block;
+    max-width: 80%;
+    /* align-items: ; */
+    margin-left: 10%;
+}
+
+.TituloSeção {
+    font-size: 3.5rem;
+    /* font-size: 50px; */
+}

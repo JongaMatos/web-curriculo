@@ -1,0 +1,17 @@
+.Btn {
+    text-decoration: none;
+    /*  */
+    color: #ffff;
+    font-weight: 600;
+    font-size: 12rem;
+    /*  */
+    padding: 1.5rem;
+    /*  */
+    margin: auto;
+    /*  */
+    font-size: 1.2rem;
+}
+
+Btn:hover {
+    cursor: pointer;
+}

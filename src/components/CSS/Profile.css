@@ -1,0 +1,45 @@
+.ProfileBox {
+    display: flex;
+    /*  */
+    justify-content: center;
+    align-items: center;
+    /*  */
+    margin-bottom: 2rem;
+}
+
+.Profile {
+    text-align: center;
+    margin-right: 15%;
+}
+
+.ProfileNome {
+    font-size: 2.2Rem;
+}
+
+.ProfileContato {
+    color: #707070;
+    font-size: 1.8rem;
+    margin: auto;
+}
+
+.ProfilePic {
+    border-radius: 100%;
+    max-height: 10rem;
+    background-color: aliceblue;
+    margin-top: 2rem;
+    /* margin-left: 25%; */
+}
+
+.Aboutme {
+    max-width: 40%;
+}
+
+.Aboutme h3 {
+    font-size: 2rem;
+    color: #5A8D3B;
+    font-weight: 600;
+}
+
+.Aboutme p {
+    font-size: 1.5rem;
+}

@@ -1,0 +1,49 @@
+ul {
+    list-style-type: circle;
+}
+
+.Conteudo {
+    text-align: left;
+    margin-left: 5rem;
+    margin-bottom: 5rem;
+}
+
+.Subtitulo {
+    /* font-size: 35px; */
+    font-size: 2.9rem;
+    /*  */
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    font-weight: 500;
+}
+
+.Item {
+    /* font-size: 30px; */
+    font-size: 2.5rem;
+}
+
+/* .Linguas {
+    margin-bottom: 2rem;
+} */
+
+/* .conhecimentos {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+} */
+
+
+.curriculo {
+    background-color: #E5E5E5;
+    max-width: 1200px;
+    /* min-height: 500px; */
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    /*  */
+    border-radius: 0 0 16px 16px;
+}
+/* 
+.end{
+    color: #E5E5E5;
+    display: block;
+} */

@@ -4,7 +4,7 @@
 }
 
 .Bigbox {
-    background-color: #CFCFCF;
+    background-color: #E5E5E5;
     /*  */
     max-width: 700px;
     min-height: 450px;
@@ -26,7 +26,9 @@
     /* min-height: 100px; */
     max-width: 80%;
     /*  */
-    margin-bottom: 2%;
+    margin-bottom: 5%;
+    /*  */
+    padding-bottom: 1rem;
 }
 
 .p1 {
@@ -43,14 +45,19 @@
 }
 
 .Botão {
-    background-color: #468AB7;
+    background-color: #5A8D3B;
     color: #ffffff;
     /*  */
     border-radius: 8%;
     border: #CAC9C9;
     /*  */
-    margin-bottom: 5%;
+    text-decoration: none;
     /*  */
+    padding: 1rem 1.1rem;
+    /*  */
+    margin: auto;
+
+
 }
 
 .Botão:hover {
