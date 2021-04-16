@@ -3,7 +3,7 @@ let ProfileData = {
     Nome: "João Gabriel de Campos de Matos",
     Email: "joao.matos@orcestra.com.br",
     Telefone: "(61) 9XXXX-XXX",
-    SobreMim: ['Estudante de Engenharia de Software.','Interessado em desenvolvimento web e ciência de dados.',"Atualmente sou treinee na Orc'estra Gamificação (Empresa Júnior de Gamificação da UnB)."],
+    SobreMim: ['Graduando Engenharia de Software.','Interessado em desenvolvimento web e ciência de dados.',"Atualmente sou trainee na Orc'estra Gamificação (Empresa Júnior de Gamificação da UnB)."],
     ProfilePic: {
         src: ProfilePic,
         alt: "Placeholder temporario"

@@ -7,7 +7,7 @@ let ConhecimentosData = {
         },
         {
             subtitulo: "Outros",
-            item: ["Linux Ubuntu", 'Markdown', 'Pacote microsoft office']
+            item: ["Linux Ubuntu", 'Markdown']
         }
 
     ]
