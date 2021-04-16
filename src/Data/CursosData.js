@@ -6,7 +6,7 @@ let CursosData = {
             item: ['Inglês Básico, UnB Idiomas.', 'Inglês Intermediário 1, UnB Idiomas.']
         },
         {
-            subtitulo: 'Aprendizado de Maquina',
+            subtitulo: 'Aprendizado de Máquina',
             item: ['Curso de Extensão: Introdução a Machine Learning e Deep Learning (IMLDL), BRASIL+IA .']
         }
     ]

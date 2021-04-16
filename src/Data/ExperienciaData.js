@@ -7,7 +7,7 @@ let ExperienciaData = {
         },
         {
             subtitulo: 'Estágio',
-            item: ['Administração Central do INSS, Divisão de Gestão de Pessoas.']
+            item: ['Administração Central do INSS, Divisão de Gestão de Pessoas']
         },
 
     ]
