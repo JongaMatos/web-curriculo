@@ -62,10 +62,6 @@
     .Aboutme {
         max-width: 70%;
     }
-}
-
-@media only screen and (max-width: 600px) {
-    
     .ProfileNome {
         font-size: 5vw;
     }
@@ -73,9 +69,29 @@
         font-size: 5vw;
         padding-left: 0px;
     }
-    .Aboutme{margin: auto;
+    .Aboutme {
+        margin: auto;
     }
+    .Aboutme p {
+        font-size: 4vw;
+    }
+    .Aboutme h3 {
+        font-size: 5vw;
+        margin-bottom: 0px;
+    }
+}
 
+@media only screen and (max-width: 600px) {
+    .ProfileNome {
+        font-size: 5vw;
+    }
+    .ProfileContato {
+        font-size: 5vw;
+        padding-left: 0px;
+    }
+    .Aboutme {
+        margin: auto;
+    }
     .Aboutme p {
         font-size: 5vw;
     }
