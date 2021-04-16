@@ -3,7 +3,7 @@ let CursosData = {
     sub: [
         {
             subtitulo: 'Línguas',
-            item: ['Ingles Basico, UnB Idiomas.', 'Ingles Intermediario 1, UnB Idiomas.']
+            item: ['Inglês Básico, UnB Idiomas.', 'Inglês Intermediário 1, UnB Idiomas.']
         },
         {
             subtitulo: 'Aprendizado de Maquina',

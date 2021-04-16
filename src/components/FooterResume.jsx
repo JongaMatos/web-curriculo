@@ -9,7 +9,7 @@ function Footer() {
 
             <Link className='Retorno' to={'/'}>Voltar</Link>
 
-            <Btn title='Inicio' />
+            <Btn title='Início' />
         </div>
     )
 }

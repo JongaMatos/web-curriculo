@@ -5,7 +5,7 @@ import Btn from './Btn.jsx'
 function HeaderResume(props) {
     return (
 
-        <div className='header' id='inicio'>
+        <div className='header'>
             <Btn title={props.title1}></Btn>
             <Btn title={props.title2}></Btn>
             <Btn title={props.title3}></Btn>

@@ -4,8 +4,8 @@ import ResumeBody from '../../components/ResumeBody'
 function Curriculo() {
     return (
         <>
-            <span id='Inicio' />
-            <HeaderResume title1='Escolaridade' title2="Experiência" title3='Cursos' title4='Conhecimentos' />
+            <span id='Início' />
+            <HeaderResume title1='Formação' title2="Experiência" title3='Cursos' title4='Conhecimentos' />
             <ResumeBody />
 
 

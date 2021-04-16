@@ -1,13 +1,13 @@
 let EscolaridadeData = {
-    Titulo: 'Escolaridade',
+    Titulo: 'Formação',
     sub: [
         {
             subtitulo: "Ensino médio",
-            item: ['Colegio Olimpo de Brasilia', "Colegio Unico Educacional"]
+            item: ['Colégio Olimpo de Brasília', "Colégio Único Educacional"]
         },
         {
             subtitulo: "Bacharelado em Engenharia de Software",
-            item: ["Universidade de Brasilia, Faculdade de Gama"]
+            item: ["Universidade de Brasília, Faculdade de Gama"]
         }
     ]
 
