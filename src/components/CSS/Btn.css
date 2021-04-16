@@ -15,3 +15,23 @@
 Btn:hover {
     cursor: pointer;
 }
+
+@media only screen and (max-width: 800px) {
+    .Btn {
+        padding: 3vw;
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .Btn {
+        /* padding: 1vw; */
+        font-size: 3vw;
+    }
+}
+
+@media only screen and (max-width: 300) {
+    .Btn {
+        font-size: 0px;
+        padding: 2vw;
+    }
+}

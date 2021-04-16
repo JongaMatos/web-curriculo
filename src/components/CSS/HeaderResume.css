@@ -2,7 +2,6 @@
     /* background-color: #468AB7; */
     /* background-color: #92140c; */
     background-color: #5A8D3B;
-
     /*  */
     display: flex;
     justify-content: center;
@@ -10,5 +9,12 @@
     border-radius: 16px 16px 0px 0px;
     /*  */
     max-width: 1200px;
-    margin:0 auto
+    margin:  auto
 }
+@media only screen and (max-width: 639) {}
+
+
+/* @media only screen and (max-width: 639px) {
+    .header {
+    }
+} */

@@ -27,7 +27,6 @@
     max-height: 10rem;
     background-color: aliceblue;
     margin-top: 2rem;
-    /* margin-left: 25%; */
 }
 
 .Aboutme {
@@ -42,4 +41,32 @@
 
 .Aboutme p {
     font-size: 1.5rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .Profile {
+        margin: auto;
+    }
+    .ProfileBox {
+        flex-direction: column;
+    }
+    .ProfilePic {
+        max-height: 0px;
+    }
+    .ProfileNome {
+        font-size: 5vw;
+    }
+    .ProfileContato {
+        font-size: 5vw;
+    }
+    .Aboutme p {
+        font-size: 5vw;
+    }
+    .Aboutme h3{
+        font-size: 5vw;
+        margin-bottom: 0px;
+    }
+    .Aboutme {
+        max-width: 70%;
+    }
 }
