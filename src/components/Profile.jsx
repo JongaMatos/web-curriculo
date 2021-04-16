@@ -3,6 +3,11 @@ import React from 'react'
 import './CSS/Profile.css'
 
 function Profile(props) {
+    let SobreMim = props.ProfileObject.SobreMim
+    let Redaçao = SobreMim.map((Paragrafo) => {
+        return <p>{Paragrafo}</p>
+    })
+
     return (
         <div className='ProfileBox'>
             <div className='Profile'>
@@ -14,7 +19,8 @@ function Profile(props) {
             </div>
             <div className='Aboutme'>
                 <h3>Sobre mim:</h3>
-                <p>{props.ProfileObject.SobreMim}</p>
+
+                <p>{Redaçao}</p>
             </div>
 
         </div>
