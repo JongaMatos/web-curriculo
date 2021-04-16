@@ -65,10 +65,7 @@
 }
 
 @media only screen and (max-width: 600px) {
-    .ProfilePic {
-        max-height: 0px;
-        padding: 0px;
-    }
+    
     .ProfileNome {
         font-size: 5vw;
     }
