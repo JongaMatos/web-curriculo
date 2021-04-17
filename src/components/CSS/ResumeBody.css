@@ -43,7 +43,7 @@ ul {
     }
     .Item {
         font-size: 5.5vw;
-        margin: auto;
+        /* margin: auto; */
     }
 }
 
