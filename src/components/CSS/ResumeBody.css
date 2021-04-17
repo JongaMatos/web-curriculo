@@ -44,19 +44,19 @@ ul {
     .Item {
         font-size: 5.5vw;
         margin: auto;
-        margin-right: 10px;
+        margin-right: 5px;
     }
 }
 
 
 
-@media (max-width:780px) {
-    /* .Conteudo {
+/* @media (max-width:780px) {
+    .Conteudo {
         margin: auto;
         margin-bottom: 3vh;
         margin-left: 3vw;
-    } */
-}
+    }
+} */
 
 @media (orientation:landscape) and (max-height:800px) {
     /* .curriculo {} */
