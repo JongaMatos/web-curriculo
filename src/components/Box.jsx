@@ -11,8 +11,7 @@ function Boxes() {
             <div className='Box'>
                 <p className='p1'>Este é meu currículo.</p>
                 <p className='p2'>Clique em "visualizar" para me conhecer um pouco melhor.</p>
-                {/* <button className='Botão'>Visualizar</button> */}
-                {/* <Link to={'/Curriculo'} className='Botão'>Visualizar</Link> */}
+                
             </div>
             <Link to={'/Curriculo'} className='Botão'>Visualizar</Link>
 

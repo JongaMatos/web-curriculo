@@ -8,6 +8,7 @@
     /*  */
     max-width: 700px;
     min-height: 450px;
+    min-height: 100;
     /*  */
     margin-bottom: 1.5%;
     margin-top: 2%;
@@ -19,10 +20,10 @@
     background-color: #ffffff;
     /*  */
     margin-top: 12%;
+    margin-bottom: 8%;
     /*  */
     max-width: 80%;
     /*  */
-    margin-bottom: 5%;
     /*  */
     padding-bottom: 1rem;
 }
@@ -52,11 +53,48 @@
     padding: 1rem 1.1rem;
     /*  */
     margin: auto;
-
-
 }
 
 .Botão:hover {
     cursor: pointer;
 }
 
+@media (max-width:700px) {
+.Bigbox{
+    margin-top: 15vh;
+    min-height: 340px;
+}
+
+    .Box {
+        padding-bottom: 0.5vh;
+        margin-bottom: 10%;
+    }
+    .p1 {
+        font-size: 5.5vw;
+    }
+    .p2 {
+        font-size: 5vw;
+    }
+}
+
+@media (max-width: 800px) and (orientation:landscape) {
+    .Bigbox {
+        min-height: 300px;
+        margin-top:5vh ;
+    }
+    .Box {
+        padding: 0;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
+    .p1 {
+        font-size: 4.5vw;
+    }
+    .p2 {
+        font-size: 4vw;
+    }
+    .Botão {
+        padding: 1vw;
+        margin: auto;
+    }
+}

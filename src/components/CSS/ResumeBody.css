@@ -47,7 +47,13 @@ ul {
     }
 }
 
-@media (orientation:landscape) and (max-height:570px) {}
+@media (max-width:780px) {
+    .Conteudo {
+        margin: auto;
+        margin-bottom: 3vh;
+        margin-left: 3vw;
+    }
+}
 
 @media (orientation:landscape) and (max-height:800px) {
     /* .curriculo {} */
