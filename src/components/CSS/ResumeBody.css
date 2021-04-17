@@ -47,12 +47,14 @@ ul {
     }
 }
 
+
+
 @media (max-width:780px) {
-    .Conteudo {
+    /* .Conteudo {
         margin: auto;
         margin-bottom: 3vh;
         margin-left: 3vw;
-    }
+    } */
 }
 
 @media (orientation:landscape) and (max-height:800px) {
