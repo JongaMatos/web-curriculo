@@ -63,7 +63,7 @@ ul {
     .Conteudo {
         margin: auto;
         margin-bottom: 8vh;
-        margin-left: 3vw;
+        /* margin-left: 3vw; */
     }
     .Subtitulo {
         font-size: 3.7vw;
