@@ -10,6 +10,14 @@
     font-size: 3.5rem;
 }
 
-@media only screen and (max-width: 639px) {
-    .TituloSeção{font-size: 8vw;}
+@media (max-width: 639px) {
+    .TituloSeção {
+        font-size: 8vw;
+    }
+}
+
+@media (orientation:landscape) and (max-height:770px) {
+    .TituloSeção{
+        font-size: 8vh;
+    }
 }

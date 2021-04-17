@@ -16,21 +16,25 @@ Btn:hover {
     cursor: pointer;
 }
 
-@media only screen and (max-width: 800px) {
+@media (max-width: 800px) {
     .Btn {
         padding: 3vw;
     }
 }
 
-@media only screen and (max-width: 650px) {
+@media (max-width: 800px) and (orientation:landscape) {
+    .Btn{padding: 1.5vw;}
+}
+
+@media (max-width: 650px) {
     .Btn {
         font-size: 3vw;
     }
 }
 
-@media only screen and (max-width: 300) {
+/* @media (max-width: 300) {
     .Btn {
         font-size: 0px;
         padding: 2vw;
     }
-}
+} */

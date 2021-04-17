@@ -30,7 +30,7 @@ ul {
     border-radius: 0 0 16px 16px;
 }
 
-@media only screen and (max-width: 600px) {
+@media (max-width: 600px) {
     .curriculo {
         max-width: 99%;
         margin: auto;
@@ -44,5 +44,22 @@ ul {
     .Item {
         font-size: 5.5vw;
         margin: auto;
+    }
+}
+
+@media (orientation:landscape) and (max-height:570px) {}
+
+@media (orientation:landscape) and (max-height:800px) {
+    /* .curriculo {} */
+    .Conteudo {
+        margin: auto;
+        margin-bottom: 8vh;
+        margin-left: 3vw;
+    }
+    .Subtitulo {
+        font-size: 3.7vw;
+    }
+    .Item {
+        font-size: 3.3vw;
     }
 }

@@ -23,7 +23,6 @@ function ResumeBody() {
             <Trecho objeto={ExperienciaData} />
             <Trecho objeto={CursosData} />
             <Trecho objeto={ConhecimentosData} />
-            <span className='end'/>
             <FooterResume />
         </div>
     )

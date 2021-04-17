@@ -49,7 +49,7 @@
     margin: 0px;
 }
 
-@media only screen and (max-width: 775px) {
+@media (max-width: 775px) {
     .ProfileBox {
         flex-direction: column;
     }
@@ -58,9 +58,6 @@
     }
     .ProfilePic {
         max-height: 17vw;
-    }
-    .Aboutme {
-        max-width: 70%;
     }
     .ProfileNome {
         font-size: 5vw;
@@ -71,6 +68,7 @@
     }
     .Aboutme {
         margin: auto;
+        max-width: 75%;
     }
     .Aboutme p {
         font-size: 4vw;
@@ -81,7 +79,7 @@
     }
 }
 
-@media only screen and (max-width: 600px) {
+@media (max-width: 600px) {
     .ProfileNome {
         font-size: 5vw;
     }
@@ -98,5 +96,21 @@
     .Aboutme h3 {
         font-size: 5vw;
         margin-bottom: 0px;
+    }
+}
+
+@media (orientation:landscape) and (max-height:800px) {
+    .ProfileNome {
+        font-size: 4vw;
+    }
+    .ProfileContato {
+        font-size: 3.5vw;
+        padding-left: 0px;
+    }
+    .Aboutme {
+        max-width: 85%;
+    }
+    .Aboutme p {
+        font-size: 3.5vw;
     }
 }
