@@ -28,7 +28,7 @@
     cursor: pointer;
 }
 
-@media only screen and (max-width: 650px) {
+@media (max-width: 650px) {
     .ft {
         margin: auto;
     }
@@ -37,4 +37,9 @@
         padding: 2vw;
         margin-left: 1rem;
     }
+}
+
+@media (max-width: 800px) and (orientation:landscape) {
+    .Retorno{padding: 1.5vw;}
+
 }
