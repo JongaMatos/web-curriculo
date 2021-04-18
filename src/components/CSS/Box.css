@@ -32,10 +32,13 @@
     padding-top: 4%;
     font-size: 1.7rem;
     margin-bottom: 0px;
+    font-family: "GamestationCondenesd";
 }
 
 .p2 {
     font-size: 1.5rem;
+    font-family: "GamestationCondenesd";
+
     padding-left: 18%;
     padding-right: 18%;
     margin-top: 2%;
@@ -49,6 +52,7 @@
     border: #CAC9C9;
     /*  */
     text-decoration: none;
+    font-family: "GemunuLibreRegular";
     /*  */
     padding: 1rem 1.1rem;
     /*  */
