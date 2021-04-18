@@ -32,7 +32,7 @@ ul {
 
 @media (max-width: 600px) {
     .curriculo {
-        max-width: 99%;
+        /* max-width: 99%; */
         margin: auto;
     }
     .Conteudo {
