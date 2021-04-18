@@ -43,8 +43,8 @@ ul {
     }
     .Item {
         font-size: 5.5vw;
-        margin: auto;
-        margin-right: 5px;
+        /* margin: auto; */
+        /* margin-right: 5px; */
     }
 }
 
@@ -61,14 +61,14 @@ ul {
 @media (orientation:landscape) and (max-height:800px) {
     /* .curriculo {} */
     .Conteudo {
-        /* margin: auto; */
+        margin: auto;
         margin-bottom: 8vh;
         /* margin-left: 3vw; */
     }
     .Subtitulo {
-        font-size: 3.4vw;
+        font-size: 3.7vw;
     }
     .Item {
-        font-size: 3vw;
+        font-size: 3.3vw;
     }
 }
