@@ -14,11 +14,13 @@
 
 .ProfileNome {
     font-size: 2.2Rem;
+    font-family: "GamestationCondenesd";
 }
 
 .ProfileContato {
     color: #707070;
     font-size: 1.8rem;
+    font-family: "GemunuLibreRegular";
     margin: auto;
     margin-left: 1rem;
     padding-left: 2rem;
@@ -42,11 +44,14 @@
     color: #5A8D3B;
     font-weight: 600;
     margin-bottom: 3rem;
+    font-family: 'BungeeRegular';
+
 }
 
 .Aboutme p {
     font-size: 1.5rem;
     margin: 0px;
+    font-family: "GemunuLibreRegular";
 }
 
 @media (max-width: 775px) {
