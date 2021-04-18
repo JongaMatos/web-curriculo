@@ -10,7 +10,9 @@
     margin: auto;
     /*  */
     font-size: 1.2rem;
+    font-family: "GemunuLibreRegular";
 }
+
 
 Btn:hover {
     cursor: pointer;
@@ -32,9 +34,3 @@ Btn:hover {
     }
 }
 
-/* @media (max-width: 300) {
-    .Btn {
-        font-size: 0px;
-        padding: 2vw;
-    }
-} */

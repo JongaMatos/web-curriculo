@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "BungeeRegular";
+    src: local("BungeeRegular"), url("./Fonts/Bungee-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "GamestationCondenesd";
+    src: local("GamestationCondenesd"), url("./Fonts/gamestation-condensed.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "GemunuLibreRegular";
+    src: local("GemunuLibreRegular"), url("./Fonts/gemunu-libre.regular.ttf") format("truetype");
+}

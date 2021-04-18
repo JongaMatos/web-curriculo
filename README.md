@@ -1,6 +1,6 @@
 # Web-Curriculo
 
-## Proposta:
+## Proposta
 
 * Criar um prototipo de Web-Curriculo com pelo menos 2 paginas, pelo figma.
 * Implementar em ReactJs o Web-Curriculo prototipado.
@@ -9,7 +9,8 @@
 
 ## Prototipos
 
-Segue abixo o link para os protótipos: 
+Segue abixo o link para os protótipos:
+
 <https://www.figma.com/file/zAYz7IhY8StM9MNSq9yPnD/Inicial?node-id=0%3A1>
 
 ## Deploy
@@ -35,8 +36,3 @@ Para rodar a aplicação localmente a aplicação:
   * sudo docker-compose up
 * Para rodar sem o docker:
   * npm start
-
-
-
-
-
