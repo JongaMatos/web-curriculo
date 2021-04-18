@@ -27,7 +27,7 @@ Segue abaixo o link onde se encontra o código-fonte da aplicação:
 
 ## Rodar localmente
 
-Para rodar a aplicação localmente a aplicação:
+Para rodar a aplicação localmente:
 
 * Clone o repositorio acima.
 * Instale o Nodejs ou o docker e o docker-compose.
