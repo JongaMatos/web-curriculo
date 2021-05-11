@@ -9,7 +9,7 @@
 
 ## Prototipos
 
-Segue abixo o link para os protótipos:
+Segue abaixo o link para os protótipos:
 
 <https://www.figma.com/file/zAYz7IhY8StM9MNSq9yPnD/Inicial?node-id=0%3A1>
 
