@@ -3,6 +3,7 @@
 ## Proposta
 
 <!-- * Criar um prototipo de Web-Curriculo com pelo menos 2 paginas, pelo figma. -->
+* Criar um prototipo de Web-Curriculo pelo figma.
 * Implementar em ReactJs o Web-Curriculo prototipado.
 * Colocar a aplicação em um repositorio do GitHub.
 * Fazer deploy da aplicação com o Netlify.
